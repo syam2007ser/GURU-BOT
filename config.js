@@ -58,9 +58,9 @@ global.menuvid = 'https://telegra.ph/file/62227648c11c9e2555483.jpg'
 global.igfg = '▢ Follow on Instagram\nhttps://instagram.com/_mr.fro_ud_?\n' 
 global.dygp = 'https://t.me/+ts7jY2FS3y9jNjRl'
 global.fgsc = 'https://github.com/syam2007ser/GURU-BOT' 
-global.fgyt = ''
-global.fgpyp = 'https://youtube.com/@Asliguru'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
+global.fgyt = 'https://youtube.com/@ghanasyamravi'
+global.fgpyp = 'https://youtube.com/@ghanasyamravi'
+global.fglog = 'https://telegra.ph/file/62227648c11c9e2555483.jpg' 
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 
