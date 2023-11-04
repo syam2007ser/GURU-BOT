@@ -8,19 +8,19 @@
   "stack": "container",
   "env": {
     "DATABASE_URL": {
-      "description": "your mongodb database url",
+      "description": "mongodb+srv://syamser123.csjxapo.mongodb.net",
       "required": false,
-      "value": ""
+      "value": "mongodb+srv://syamser123.csjxapo.mongodb.net"
     },
     "SESSION_ID": {
-      "description": "your session id",
+      "description": "Guru_SuggestBooking",
       "required": true,
-      "value": ""
+      "value": "Guru_SuggestBooking"
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "."
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
